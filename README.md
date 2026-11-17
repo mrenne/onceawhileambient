@@ -1,12 +1,12 @@
-# Once a Week Ambient
+# Once A While Ambient
 
-A minimalist, self-hosted listening site for an ongoing ambient music project. One new piece, every week.
+A minimalist, self-hosted listening site for an ongoing ambient music project. One new piece, every once in a while.
 
 **[Listen →](https://oawambient.org)**
 
 ## About
 
-Once a Week Ambient is a weekly practice of writing and releasing a single ambient piece. The constraint is simple: one week, one piece. No perfectionism, no long production cycles — just a steady rhythm of making and sharing.
+Once A While Ambient is an ongoing practice of writing and releasing ambient pieces, one at a time. No fixed schedule, no perfectionism, no long production cycles: a new piece goes up when it's ready.
 
 Each track draws on a mix of:
 
@@ -20,7 +20,7 @@ Each piece starts as code. In **Sonic Pi**, I write the structure of the track �
 
 That code doesn't just define the composition; it also drives the sound itself. In **Ableton Live**, a set of plugins generate the actual sounds, and those plugins are connected to and controlled directly by the Sonic Pi code.
 
-From there, the piece is performed live: I manipulate both the code and the plugin parameters in real time, shaping a unique ambient piece each week.
+From there, the piece is performed live: I manipulate both the code and the plugin parameters in real time, so every piece comes out unique.
 
 ## License
 
